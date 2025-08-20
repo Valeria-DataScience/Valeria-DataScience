@@ -1,15 +1,17 @@
-
+## 👩🏽‍🔬 Data Scientist | Biomedical & Healthcare Analytics | Open to Diverse Domains
 
 # Hello, I'm Valeria.
 
-## 👩🏽‍💻 About Me  
+## About Me  
 I’m a Data Scientist with a background in biomedical research and healthcare analytics. My expertise includes:  
 - Machine learning and data mining  
 - Data visualization and dashboard development  
 - Healthcare and biomedical datasets  
 - R, Python, and SQL programming  
 
-I hold a PhD in Biological Sciences and a Master’s in Data Science. While my background is rooted in healthcare and biomedical research, I am enthusiastic about applying data-driven methodologies across different domains, including finance, marketing, and pharmaceuticals. I value continuous learning and enjoy expanding my expertise to address new challenges.  
+👩🏽‍💻 I hold a PhD in Biological Sciences and a Master’s in Data Science. 
+
+While my background is rooted in healthcare and biomedical research, I am enthusiastic about applying data-driven methodologies across different domains, including finance, marketing, and pharmaceuticals. I value continuous learning and enjoy expanding my expertise to address new challenges.  
 
 
 
