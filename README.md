@@ -2,7 +2,7 @@
 
 # Hello, I'm Valeria.
 
-## About Me  
+👩🏽‍💻 ## About Me  
 I’m a Data Scientist with a background in biomedical research and healthcare analytics. My expertise includes:  
 - Machine learning and data mining  
 - Data visualization and dashboard development  
@@ -26,11 +26,11 @@ I hold a PhD in Biological Sciences and a Master’s in Data Science. While my b
 
 - **Food Processing KPIs**  
   Visualization analysis of employee performance and labor cost efficiency.  
-  [🔗 View Project](https://github.com/Valeria-DataScience/Food-Processing_KPIs)  
+  [🔗 View Project](https://github.com/Valeria-DataScience/Food-Processing-KPIs)  
 
 - **Gut Microbiome**  
   Machine learning models to predict bacterial diversity in gut microbiome data from individuals.  
-  [🔗 View Project](link-to-repo)  
+  [🔗 View Project](https://orcid.org/0000-0001-9776-0150)  
 ---
 
 ## 🛠️ Tools & Technologies  
@@ -42,7 +42,8 @@ I hold a PhD in Biological Sciences and a Master’s in Data Science. While my b
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/valeria-l-burgos/)  
+- [LinkedIn](https://www.linkedin.com/in/valeria-l-burgos/)
+- Email: valeria.l.burgos@gmail.com
 
 
 ---
