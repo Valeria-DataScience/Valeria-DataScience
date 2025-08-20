@@ -2,7 +2,7 @@
 
 # Hello, I'm Valeria.
 
-👩🏽‍💻 ## About Me  
+## 👩🏽‍💻 About Me  
 I’m a Data Scientist with a background in biomedical research and healthcare analytics. My expertise includes:  
 - Machine learning and data mining  
 - Data visualization and dashboard development  
