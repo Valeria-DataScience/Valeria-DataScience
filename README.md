@@ -18,15 +18,15 @@ I hold a PhD in Biological Sciences and a Master’s in Data Science. While my b
 ## 📂 Featured Projects  
 - **Global Tuberculosis Analysis**  
   Temporal and geographical visualization of WHO tuberculosis data using Tableau.  
-  [🔗 View Project](link-to-repo)  
+  [🔗 View Project](https://github.com/Valeria-DataScience/Tuberculosis-Temporal-and-geographical-evolution)  
 
-- **Arterial Hypertension**  
-  Machine learning models to predict bacterial diversity in gut microbiome data from individuals.  
-  [🔗 View Project](link-to-repo)  
+- **Hypertension**  
+  Multivariate study of factors associated with high-blood pressure.  
+  [🔗 View Project](https://github.com/Valeria-DataScience/Hypertension)  
 
-- **KPI in**  
-  Implementation of clustering techniques to identify patterns in physiological datasets.  
-  [🔗 View Project](link-to-repo)  
+- **Food Processing KPIs**  
+  Visualization analysis of employee performance and labor cost efficiency.  
+  [🔗 View Project](https://github.com/Valeria-DataScience/Food-Processing_KPIs)  
 
 - **Gut Microbiome**  
   Machine learning models to predict bacterial diversity in gut microbiome data from individuals.  
