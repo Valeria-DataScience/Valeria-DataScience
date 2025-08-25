@@ -32,7 +32,7 @@ While my background is rooted in healthcare and biomedical research, I am enthus
 
 - **Gut Microbiome**  
   Machine learning models to predict bacterial diversity in gut microbiome data from individuals.  
-  [🔗 View Project](https://orcid.org/0000-0001-9776-0150)  
+  [🔗 View Project](https://www.researchgate.net/publication/355492360_A_Complementary_Approach_in_the_Analysis_of_the_Human_Gut_Microbiome_Applying_Self-organizing_Maps_and_Random_Forest)  
 ---
 
 ## 🛠️ Tools & Technologies  
